@@ -6,15 +6,15 @@ import Portfolio from "./portfolio/Portfolio";
 import Form from "./form/Form";
 import Footer from "./footer/Footer";
 
-const Landing = () =>{
-    return(
+const Landing = () => {
+    return (
         <>
-            <Header/>
-            <AboutMe/>
-            <Skills/>
-            <Portfolio/>
-            <Form/>
-            <Footer/>
+            <Header />
+            <AboutMe />
+            <Skills />
+            <Portfolio />
+            <Form />
+            <Footer />
         </>
     )
 }
