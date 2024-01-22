@@ -1,9 +1,14 @@
+import React from 'react';
+import { Route, Routes } from 'react-router-dom';
 
-import Landing from './features/Landing';
 
 function App() {
   return (
-    <Landing />
+    <Routes>
+      
+       
+
+    </Routes>
   );
 }
 
