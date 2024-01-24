@@ -1,0 +1,9 @@
+.middle{
+    display: flex;
+    justify-content: space-around;    
+    width: 80%;
+}
+
+.text-middle {
+    width: 50%;
+}

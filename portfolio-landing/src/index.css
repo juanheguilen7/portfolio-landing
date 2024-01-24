@@ -1,21 +1,6 @@
-/* Definir una fuente y color general */
 body {
-
-  color: black;
-  background-color: #373B44;
-}
-
-/* Estilos para encabezados */
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  color: #055285;
-}
-
-a {
-  color: black;
-  text-decoration: none;
+  padding: 0;
+  margin: 0;
+  background-color: #0F2027;
+  color: white;
 }

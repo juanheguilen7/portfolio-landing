@@ -1,14 +1,12 @@
 import React from 'react';
-import { Route, Routes } from 'react-router-dom';
+
+import Home from './features/Home';
+
 
 
 function App() {
   return (
-    <Routes>
-      
-       
-
-    </Routes>
+    <Home />
   );
 }
 
